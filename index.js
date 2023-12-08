@@ -32630,8 +32630,8 @@ const oM = [{
     description: "My portfolio website, you're probably looking at right now.",
     image: "images/projects/portfolio.jpg",
     tags: ["webgl", "javascript", "html", "css"],
-    liveview: "https://nilpatel1131.github.io/myportfolio/",
-    github: "https://github.com/Nilpatel1131/myportfolio",
+    liveview: "https://nilpatel1131.github.io/nil-gardhariya/",
+    github: "https://github.com/Nilpatel1131/nil-gardhariya",
     alt: "david heckhoff portfolio project 2022 threejs blender 3d design",
     bannerIcons: [{
         src: "images/cssda-icon.png",
